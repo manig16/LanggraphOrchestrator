@@ -1,0 +1,7 @@
+httpx
+ipython
+langchain
+langchain-openai
+langgraph
+pandas
+python-dotenv
